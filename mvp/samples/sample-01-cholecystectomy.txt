@@ -1,0 +1,17 @@
+SETTLEMENT ADVICE (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Payer: Demo Insurer A
+TPA: Demo TPA One
+Claim No: DA-2026-004417
+Patient Ref: P-1042
+Admission: 2026-09-02
+Discharge: 2026-09-06
+Settlement Date: 2026-10-09
+Procedure: Laparoscopic cholecystectomy
+Claimed Amount: 142500
+Approved Amount: 118300
+Paid Amount: 118300
+Deductions:
+- Surgical consumables (gloves, drapes) | 6200 | Non-payable items as per policy terms
+- Room charges | 9800 | Room rent above eligible category; proportionate deduction applied
+- Pharmacy charges | 5200 | Charges in excess of agreed tariff
+- Histopathology | 3000 | Histopathology report not submitted

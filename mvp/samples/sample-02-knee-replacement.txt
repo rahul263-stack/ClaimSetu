@@ -1,0 +1,17 @@
+SETTLEMENT ADVICE (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Payer: Demo Insurer B
+TPA: Demo TPA Two
+Claim No: DB-2026-118802
+Patient Ref: P-2217
+Admission: 2026-08-18
+Discharge: 2026-08-25
+Settlement Date: 2026-10-06
+Procedure: Total knee replacement (unilateral)
+Claimed Amount: 310000
+Approved Amount: 228500
+Paid Amount: 228500
+Deductions:
+- Implant | 32000 | Implant cost above package rate
+- Room and nursing, 2 days | 14000 | Extended stay of 2 days not justified
+- Policy co-payment | 31000 | Co-pay 10% as per policy
+- Physiotherapy sessions | 4500 | Not covered under policy terms

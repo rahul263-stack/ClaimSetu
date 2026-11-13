@@ -1,0 +1,37 @@
+{
+  "key": "general_surgery",
+  "label": "General surgery",
+  "match": "cholecyst|appendic|hernia|laparoscop|cholelith|gall",
+  "properties": [
+    {
+      "key": "surgical_approach",
+      "label": "Surgical approach",
+      "type": "text",
+      "description": "Laparoscopic or open"
+    },
+    {
+      "key": "conversion_to_open",
+      "label": "Conversion to open",
+      "type": "text",
+      "description": "Whether a laparoscopic case was converted"
+    },
+    {
+      "key": "intraoperative_findings",
+      "label": "Intraoperative findings",
+      "type": "text",
+      "description": "Findings at surgery"
+    },
+    {
+      "key": "drain_placed",
+      "label": "Drain placed",
+      "type": "text",
+      "description": "Whether a drain was left"
+    },
+    {
+      "key": "histopathology_sent",
+      "label": "Histopathology sent",
+      "type": "text",
+      "description": "Whether a specimen was sent"
+    }
+  ]
+}

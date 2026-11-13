@@ -1,0 +1,49 @@
+{
+  "key": "cardiac",
+  "label": "Cardiac",
+  "match": "coronary|angioplast|stent|ptca|myocardial|cardiac|angiograph|bypass|cabg",
+  "properties": [
+    {
+      "key": "vessels_treated",
+      "label": "Vessels treated",
+      "type": "text",
+      "description": "Coronary vessels treated"
+    },
+    {
+      "key": "stent_count",
+      "label": "Stent count",
+      "type": "number",
+      "description": "Number of stents placed"
+    },
+    {
+      "key": "stent_type",
+      "label": "Stent type",
+      "type": "text",
+      "description": "Drug-eluting, bare-metal or other"
+    },
+    {
+      "key": "lvef_percent",
+      "label": "LVEF percent",
+      "type": "number",
+      "description": "Left ventricular ejection fraction"
+    },
+    {
+      "key": "access_route",
+      "label": "Access route",
+      "type": "text",
+      "description": "Radial or femoral"
+    },
+    {
+      "key": "acute_presentation",
+      "label": "Acute presentation",
+      "type": "text",
+      "description": "Whether it was an acute coronary event"
+    },
+    {
+      "key": "thrombolysis_given",
+      "label": "Thrombolysis given",
+      "type": "text",
+      "description": "Whether thrombolysis was given"
+    }
+  ]
+}

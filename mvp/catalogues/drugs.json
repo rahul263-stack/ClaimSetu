@@ -1,0 +1,72 @@
+{
+  "type": "drug",
+  "note": "Maps bill wording to one generic name and class. Standard codes are intentionally blank until verified.",
+  "entries": [
+    {
+      "id": "ceftriaxone",
+      "name": "Ceftriaxone",
+      "class": "Antibiotic",
+      "match": "ceftriaxone"
+    },
+    {
+      "id": "pantoprazole",
+      "name": "Pantoprazole",
+      "class": "Acid suppressant",
+      "match": "pantoprazole"
+    },
+    {
+      "id": "paracetamol",
+      "name": "Paracetamol",
+      "class": "Analgesic",
+      "match": "paracetamol|acetaminophen"
+    },
+    {
+      "id": "ondansetron",
+      "name": "Ondansetron",
+      "class": "Anti-emetic",
+      "match": "ondansetron"
+    },
+    {
+      "id": "enoxaparin",
+      "name": "Enoxaparin",
+      "class": "Anticoagulant",
+      "match": "enoxaparin"
+    },
+    {
+      "id": "heparin",
+      "name": "Heparin",
+      "class": "Anticoagulant",
+      "match": "\\bheparin"
+    },
+    {
+      "id": "tranexamic_acid",
+      "name": "Tranexamic acid",
+      "class": "Antifibrinolytic",
+      "match": "tranexamic"
+    },
+    {
+      "id": "clopidogrel",
+      "name": "Clopidogrel",
+      "class": "Antiplatelet",
+      "match": "clopidogrel"
+    },
+    {
+      "id": "aspirin",
+      "name": "Aspirin",
+      "class": "Antiplatelet",
+      "match": "aspirin"
+    },
+    {
+      "id": "atorvastatin",
+      "name": "Atorvastatin",
+      "class": "Statin",
+      "match": "atorvastatin"
+    },
+    {
+      "id": "oxytocin",
+      "name": "Oxytocin",
+      "class": "Uterotonic",
+      "match": "oxytocin"
+    }
+  ]
+}

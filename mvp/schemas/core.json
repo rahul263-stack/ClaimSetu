@@ -1,0 +1,96 @@
+{
+  "key": "core",
+  "label": "Core (every admission)",
+  "properties": [
+    {
+      "key": "age",
+      "label": "Age",
+      "type": "number",
+      "description": "Patient age in years"
+    },
+    {
+      "key": "sex",
+      "label": "Sex",
+      "type": "text",
+      "description": "Patient sex"
+    },
+    {
+      "key": "admission_type",
+      "label": "Admission type",
+      "type": "text",
+      "description": "Planned or emergency"
+    },
+    {
+      "key": "primary_diagnosis",
+      "label": "Primary diagnosis",
+      "type": "text",
+      "description": "Main diagnosis as written"
+    },
+    {
+      "key": "secondary_diagnoses",
+      "label": "Secondary diagnoses",
+      "type": "text",
+      "description": "Other diagnoses treated in this admission"
+    },
+    {
+      "key": "comorbidities",
+      "label": "Comorbidities",
+      "type": "text",
+      "description": "Long-term conditions noted"
+    },
+    {
+      "key": "pre_existing_conditions",
+      "label": "Pre-existing conditions",
+      "type": "text",
+      "description": "Conditions present before the policy, with duration if stated"
+    },
+    {
+      "key": "procedure_performed",
+      "label": "Procedure performed",
+      "type": "text",
+      "description": "Main procedure as written"
+    },
+    {
+      "key": "anaesthesia",
+      "label": "Anaesthesia",
+      "type": "text",
+      "description": "Type of anaesthesia"
+    },
+    {
+      "key": "length_of_stay_days",
+      "label": "Length of stay days",
+      "type": "number",
+      "description": "Days from admission to discharge"
+    },
+    {
+      "key": "icu_days",
+      "label": "ICU days",
+      "type": "number",
+      "description": "Days in intensive care"
+    },
+    {
+      "key": "room_category",
+      "label": "Room category",
+      "type": "text",
+      "description": "Ward or room type occupied"
+    },
+    {
+      "key": "complications",
+      "label": "Complications",
+      "type": "text",
+      "description": "Complications during the stay, or none"
+    },
+    {
+      "key": "condition_at_discharge",
+      "label": "Condition at discharge",
+      "type": "text",
+      "description": "Clinical condition when discharged"
+    },
+    {
+      "key": "treating_specialty",
+      "label": "Treating specialty",
+      "type": "text",
+      "description": "Specialty of the treating doctor"
+    }
+  ]
+}

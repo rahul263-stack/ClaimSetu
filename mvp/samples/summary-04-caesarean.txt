@@ -1,0 +1,23 @@
+DISCHARGE SUMMARY (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Claim No: DC-2026-070233
+Patient Ref: P-4451
+Age: 29
+Sex: Female
+Admission type: Planned
+Primary diagnosis: Term pregnancy with previous caesarean
+Comorbidities: None
+Pre-existing conditions: None recorded
+Procedure performed: Lower segment caesarean section
+Anaesthesia: Spinal
+Length of stay days: 4
+ICU days: 0
+Room category: Twin sharing
+Complications: None
+Condition at discharge: Mother and baby well
+Treating specialty: Obstetrics
+Gestational age weeks: 38
+Gravida para: G2P1
+Delivery mode: Elective caesarean
+Indication for caesarean: Previous caesarean
+Baby birth weight g: 3100
+NICU admission: No

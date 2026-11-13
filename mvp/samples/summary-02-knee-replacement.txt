@@ -1,0 +1,23 @@
+DISCHARGE SUMMARY (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Claim No: DB-2026-118802
+Patient Ref: P-2217
+Age: 67
+Sex: Male
+Admission type: Planned
+Primary diagnosis: Severe osteoarthritis, right knee
+Comorbidities: Type 2 diabetes, hypertension
+Pre-existing conditions: Type 2 diabetes for 9 years
+Procedure performed: Total knee replacement, right
+Anaesthesia: Spinal
+Length of stay days: 7
+ICU days: 0
+Room category: Single room
+Complications: Raised blood sugar on days 3 and 4, needing insulin adjustment
+Condition at discharge: Walking with a frame
+Treating specialty: Orthopaedics
+Joint and side: Right knee
+Implant type: Posterior-stabilised total knee implant
+Implant fixation: Cemented
+Blood transfusion units: 0
+Physiotherapy started day: 1
+DVT prophylaxis: Enoxaparin

@@ -1,0 +1,54 @@
+{
+  "type": "device",
+  "note": "Maps bill wording to one device type and category.",
+  "entries": [
+    {
+      "id": "drug_eluting_stent",
+      "name": "Drug-eluting stent",
+      "class": "Coronary implant",
+      "match": "drug.eluting stent|\\bdes\\b"
+    },
+    {
+      "id": "balloon_catheter",
+      "name": "Balloon catheter",
+      "class": "Coronary disposable",
+      "match": "balloon"
+    },
+    {
+      "id": "guide_wire",
+      "name": "Guide wire",
+      "class": "Coronary disposable",
+      "match": "guide ?wire"
+    },
+    {
+      "id": "guiding_catheter",
+      "name": "Guiding catheter",
+      "class": "Coronary disposable",
+      "match": "guiding catheter"
+    },
+    {
+      "id": "knee_implant",
+      "name": "Total knee implant set",
+      "class": "Orthopaedic implant",
+      "match": "knee implant"
+    },
+    {
+      "id": "bone_cement",
+      "name": "Bone cement",
+      "class": "Orthopaedic implant",
+      "match": "bone cement"
+    },
+    {
+      "id": "trocar_set",
+      "name": "Disposable trocar set",
+      "class": "Laparoscopic disposable",
+      "match": "trocar"
+    },
+    {
+      "id": "ligation_clips",
+      "name": "Ligation clips",
+      "class": "Laparoscopic disposable",
+      "match": "clips?\\b"
+    }
+  ]
+}

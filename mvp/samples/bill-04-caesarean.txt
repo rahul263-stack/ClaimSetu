@@ -1,0 +1,20 @@
+ITEMISED BILL (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Claim No: DC-2026-070233
+Patient Ref: P-4451
+Lines:
+- Room charges, twin sharing | room | 4 | 5500 | 22000
+- Nursing charges | room | 4 | 600 | 2400
+- Nursing charges | room | 4 | 600 | 2400
+- Caesarean section, obstetrician fee | professional_fee | 1 | 28000 | 28000
+- Anaesthetist fee | professional_fee | 1 | 9000 | 9000
+- Paediatrician attendance | professional_fee | 1 | 3500 | 3500
+- OT charges | procedure | 1 | 14000 | 14000
+- Inj. Ceftriaxone 1 g | drug | 5 | 140 | 700
+- Inj. Oxytocin 5 IU | drug | 4 | 45 | 180
+- Inj. Paracetamol 1 g | drug | 6 | 150 | 900
+- Inj. Ondansetron 4 mg | drug | 2 | 75 | 150
+- Other pharmacy items | drug | 1 | 5270 | 5270
+- Registration and admin charges | other | 1 | 1200 | 1200
+- Surgical consumables | consumable | 1 | 4300 | 4300
+- Laboratory investigations | investigation | 1 | 3600 | 3600
+- Newborn screening | investigation | 1 | 400 | 400

@@ -1,0 +1,20 @@
+ITEMISED BILL (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Claim No: DB-2026-118802
+Patient Ref: P-2217
+Lines:
+- Room charges, single room | room | 7 | 8000 | 56000
+- Total knee replacement, surgeon fee | professional_fee | 1 | 60000 | 60000
+- Anaesthetist fee | professional_fee | 1 | 18000 | 18000
+- OT charges | procedure | 1 | 35000 | 35000
+- Knee implant, cemented (femoral, tibial, insert) | device | 1 | 92000 | 92000
+- Bone cement | device | 2 | 3500 | 7000
+- Inj. Ceftriaxone 1 g | drug | 9 | 120 | 1080
+- Inj. Enoxaparin 40 mg | drug | 7 | 420 | 2940
+- Inj. Paracetamol 1 g | drug | 12 | 210 | 2520
+- Inj. Tranexamic acid 500 mg | drug | 4 | 85 | 340
+- Other pharmacy items | drug | 1 | 11120 | 11120
+- Physiotherapy sessions | procedure | 6 | 750 | 4500
+- Surgical consumables | consumable | 1 | 8500 | 8500
+- Laboratory investigations | investigation | 1 | 7000 | 7000
+- X-ray knee | investigation | 2 | 750 | 1500
+- Blood grouping and cross-match | investigation | 1 | 2500 | 2500

@@ -1,0 +1,22 @@
+ITEMISED BILL (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Claim No: DA-2026-005190
+Patient Ref: P-3308
+Lines:
+- Room charges, twin sharing | room | 2 | 6500 | 13000
+- ICU charges | room | 1 | 12000 | 12000
+- Coronary angioplasty, cardiologist fee | professional_fee | 1 | 55000 | 55000
+- Cath lab charges | procedure | 1 | 68000 | 68000
+- Coronary angiography | procedure | 1 | 15000 | 15000
+- Drug-eluting stent | device | 1 | 38000 | 38000
+- Balloon catheter | device | 2 | 9500 | 19000
+- Guide wire | device | 2 | 4200 | 8400
+- Guiding catheter | device | 1 | 5600 | 5600
+- Inj. Heparin 5000 IU | drug | 4 | 240 | 960
+- Tab. Clopidogrel 75 mg | drug | 10 | 12 | 120
+- Tab. Aspirin 75 mg | drug | 10 | 2 | 20
+- Tab. Atorvastatin 40 mg | drug | 10 | 18 | 180
+- Inj. Pantoprazole 40 mg | drug | 3 | 135 | 405
+- Other pharmacy items | drug | 1 | 9315 | 9315
+- Consumables | consumable | 1 | 7400 | 7400
+- 2D echocardiography | investigation | 1 | 3500 | 3500
+- Laboratory investigations | investigation | 1 | 9100 | 9100

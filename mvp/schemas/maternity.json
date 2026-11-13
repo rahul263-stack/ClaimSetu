@@ -1,0 +1,43 @@
+{
+  "key": "maternity",
+  "label": "Maternity",
+  "match": "caesarean|cesarean|lscs|delivery|pregnan|gestation|obstetric|labour",
+  "properties": [
+    {
+      "key": "gestational_age_weeks",
+      "label": "Gestational age weeks",
+      "type": "number",
+      "description": "Gestational age at delivery"
+    },
+    {
+      "key": "gravida_para",
+      "label": "Gravida para",
+      "type": "text",
+      "description": "Obstetric history"
+    },
+    {
+      "key": "delivery_mode",
+      "label": "Delivery mode",
+      "type": "text",
+      "description": "Mode of delivery"
+    },
+    {
+      "key": "indication_for_caesarean",
+      "label": "Indication for caesarean",
+      "type": "text",
+      "description": "Why a caesarean was done"
+    },
+    {
+      "key": "baby_birth_weight_g",
+      "label": "Baby birth weight g",
+      "type": "number",
+      "description": "Birth weight in grams"
+    },
+    {
+      "key": "nicu_admission",
+      "label": "NICU admission",
+      "type": "text",
+      "description": "Whether the baby went to neonatal intensive care"
+    }
+  ]
+}

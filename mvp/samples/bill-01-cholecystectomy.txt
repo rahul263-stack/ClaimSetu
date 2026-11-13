@@ -1,0 +1,20 @@
+ITEMISED BILL (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Claim No: DA-2026-004417
+Patient Ref: P-1042
+Lines:
+- Room charges, twin sharing | room | 4 | 6500 | 26000
+- Nursing charges | room | 4 | 500 | 2000
+- Laparoscopic cholecystectomy, surgeon fee | professional_fee | 1 | 38000 | 38000
+- Anaesthetist fee | professional_fee | 1 | 12000 | 12000
+- OT charges | procedure | 1 | 24000 | 24000
+- Inj. Ceftriaxone 1 g | drug | 6 | 95 | 570
+- Inj. Pantoprazole 40 mg | drug | 4 | 110 | 440
+- Inj. Paracetamol 1 g | drug | 8 | 180 | 1440
+- Inj. Ondansetron 4 mg | drug | 4 | 60 | 240
+- Other pharmacy items | drug | 1 | 9510 | 9510
+- Disposable trocar set | device | 1 | 7800 | 7800
+- Titanium ligation clips | device | 1 | 2400 | 2400
+- Surgical consumables (gloves, drapes) | consumable | 1 | 6200 | 6200
+- Histopathology | investigation | 1 | 3000 | 3000
+- Laboratory investigations | investigation | 1 | 6900 | 6900
+- Ultrasound abdomen | investigation | 1 | 2000 | 2000

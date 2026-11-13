@@ -1,0 +1,16 @@
+{
+  "name": "claimsetu-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "ClaimSetu MVP: deduction and denial audit for hospital cashless claims",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "*"
+  }
+}

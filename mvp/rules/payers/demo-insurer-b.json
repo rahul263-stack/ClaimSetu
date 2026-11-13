@@ -1,0 +1,46 @@
+{
+  "payer": "Demo Insurer B",
+  "synthetic": true,
+  "note": "SYNTHETIC. Invented terms for the demo payers. Replace with the real policy schedule and the signed tariff before relying on any finding.",
+  "policy": {
+    "room_rent_per_day": 8000,
+    "proportionate_deduction": false,
+    "copay_percent": 10,
+    "sub_limits": []
+  },
+  "agreed_rates": [
+    {
+      "entity_id": "knee_implant",
+      "label": "Total knee implant set",
+      "rate": 75000
+    },
+    {
+      "entity_id": "operating_theatre",
+      "label": "Operating theatre use",
+      "rate": 35000
+    }
+  ],
+  "non_payable": {
+    "categories": [
+      "consumable",
+      "other"
+    ]
+  },
+  "stay": [
+    {
+      "procedure": "total_knee_replacement",
+      "max_days": 5
+    }
+  ],
+  "required_documents": [
+    {
+      "when_billed": "histopathology",
+      "document": "Histopathology report"
+    },
+    {
+      "when_billed": "echocardiography",
+      "document": "2D echocardiography report"
+    }
+  ],
+  "exclusions": []
+}

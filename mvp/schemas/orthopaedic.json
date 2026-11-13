@@ -1,0 +1,43 @@
+{
+  "key": "orthopaedic",
+  "label": "Orthopaedic",
+  "match": "knee|hip|replacement|arthroplast|fracture|osteoarthritis|orthopaed|spine",
+  "properties": [
+    {
+      "key": "joint_and_side",
+      "label": "Joint and side",
+      "type": "text",
+      "description": "Joint operated on and which side"
+    },
+    {
+      "key": "implant_type",
+      "label": "Implant type",
+      "type": "text",
+      "description": "Type of implant used"
+    },
+    {
+      "key": "implant_fixation",
+      "label": "Implant fixation",
+      "type": "text",
+      "description": "Cemented or uncemented"
+    },
+    {
+      "key": "blood_transfusion_units",
+      "label": "Blood transfusion units",
+      "type": "number",
+      "description": "Units of blood transfused"
+    },
+    {
+      "key": "physiotherapy_started_day",
+      "label": "Physiotherapy started day",
+      "type": "number",
+      "description": "Post-operative day physiotherapy began"
+    },
+    {
+      "key": "dvt_prophylaxis",
+      "label": "DVT prophylaxis",
+      "type": "text",
+      "description": "Clot-prevention measure used"
+    }
+  ]
+}

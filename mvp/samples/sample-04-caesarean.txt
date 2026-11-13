@@ -1,0 +1,16 @@
+SETTLEMENT ADVICE (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Payer: Demo Insurer C
+TPA: Demo TPA Two
+Claim No: DC-2026-070233
+Patient Ref: P-4451
+Admission: 2026-10-03
+Discharge: 2026-10-07
+Settlement Date: 2026-11-02
+Procedure: Lower segment caesarean section
+Claimed Amount: 98000
+Approved Amount: 66400
+Paid Amount: 66400
+Deductions:
+- Maternity benefit | 28000 | Maternity sub-limit applied
+- Nursing charges | 2400 | Duplicate billing of nursing charges
+- Registration and admin charges | 1200 | Non-payable items as per policy terms

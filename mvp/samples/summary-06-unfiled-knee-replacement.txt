@@ -1,0 +1,23 @@
+DISCHARGE SUMMARY (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Claim No: DB-2026-119377
+Patient Ref: P-6033
+Age: 71
+Sex: Female
+Admission type: Planned
+Primary diagnosis: Severe osteoarthritis, left knee
+Comorbidities: Hypertension
+Pre-existing conditions: Hypertension for 12 years
+Procedure performed: Total knee replacement, left
+Anaesthesia: Spinal
+Length of stay days: 5
+ICU days: 0
+Room category: Single room
+Complications: None
+Condition at discharge: Walking with a frame
+Treating specialty: Orthopaedics
+Joint and side: Left knee
+Implant type: Posterior-stabilised total knee implant
+Implant fixation: Cemented
+Blood transfusion units: 0
+Physiotherapy started day: 1
+DVT prophylaxis: Enoxaparin

@@ -1,0 +1,24 @@
+DISCHARGE SUMMARY (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Claim No: DA-2026-005190
+Patient Ref: P-3308
+Age: 58
+Sex: Male
+Admission type: Emergency
+Primary diagnosis: Acute coronary syndrome, single-vessel disease
+Comorbidities: Hypertension
+Pre-existing conditions: Hypertension for 4 years
+Procedure performed: Coronary angioplasty with one stent
+Anaesthesia: Local
+Length of stay days: 3
+ICU days: 1
+Room category: Twin sharing
+Complications: Transient low blood pressure after the procedure, monitored in ICU overnight
+Condition at discharge: Stable
+Treating specialty: Cardiology
+Vessels treated: Left anterior descending artery
+Stent count: 1
+Stent type: Drug-eluting
+LVEF percent: 50
+Access route: Radial
+Acute presentation: Yes
+Thrombolysis given: No

@@ -1,0 +1,15 @@
+ITEMISED BILL (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Claim No: DB-2026-119377
+Patient Ref: P-6033
+Payer: Demo Insurer B
+Lines:
+- Room charges, single room | room | 5 | 8000 | 40000
+- Total knee replacement, surgeon fee | professional_fee | 1 | 60000 | 60000
+- Anaesthetist fee | professional_fee | 1 | 18000 | 18000
+- OT charges | procedure | 1 | 35000 | 35000
+- Knee implant, cemented (femoral, tibial, insert) | device | 1 | 88000 | 88000
+- Bone cement | device | 2 | 3500 | 7000
+- Inj. Enoxaparin 40 mg | drug | 5 | 420 | 2100
+- Other pharmacy items | drug | 1 | 9900 | 9900
+- Surgical consumables | consumable | 1 | 9000 | 9000
+- Laboratory investigations | investigation | 1 | 7000 | 7000

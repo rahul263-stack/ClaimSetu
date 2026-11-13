@@ -1,0 +1,22 @@
+DISCHARGE SUMMARY (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Claim No: DA-2026-006012
+Patient Ref: P-5120
+Age: 39
+Sex: Male
+Admission type: Planned
+Primary diagnosis: Symptomatic cholelithiasis
+Comorbidities: None
+Pre-existing conditions: None recorded
+Procedure performed: Laparoscopic cholecystectomy
+Anaesthesia: General
+Length of stay days: 5
+ICU days: 0
+Room category: Single room
+Complications: None
+Condition at discharge: Stable
+Treating specialty: General surgery
+Surgical approach: Laparoscopic
+Conversion to open: No
+Intraoperative findings: Thick-walled gall bladder with calculi
+Drain placed: No
+Histopathology sent: Yes, gall bladder specimen

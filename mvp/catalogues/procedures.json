@@ -1,0 +1,66 @@
+{
+  "type": "procedure",
+  "note": "Maps bill wording to one procedure or service.",
+  "entries": [
+    {
+      "id": "lap_cholecystectomy",
+      "name": "Laparoscopic cholecystectomy",
+      "class": "General surgery",
+      "match": "cholecystectomy"
+    },
+    {
+      "id": "total_knee_replacement",
+      "name": "Total knee replacement",
+      "class": "Orthopaedic",
+      "match": "knee replacement"
+    },
+    {
+      "id": "coronary_angioplasty",
+      "name": "Coronary angioplasty",
+      "class": "Cardiac",
+      "match": "angioplasty"
+    },
+    {
+      "id": "coronary_angiography",
+      "name": "Coronary angiography",
+      "class": "Cardiac",
+      "match": "angiography"
+    },
+    {
+      "id": "caesarean_section",
+      "name": "Caesarean section",
+      "class": "Maternity",
+      "match": "caesarean|cesarean|lscs"
+    },
+    {
+      "id": "cath_lab",
+      "name": "Cath lab use",
+      "class": "Facility",
+      "match": "cath lab"
+    },
+    {
+      "id": "operating_theatre",
+      "name": "Operating theatre use",
+      "class": "Facility",
+      "match": "\\bot charges|operating theatre"
+    },
+    {
+      "id": "physiotherapy",
+      "name": "Physiotherapy session",
+      "class": "Rehabilitation",
+      "match": "physiotherapy"
+    },
+    {
+      "id": "echocardiography",
+      "name": "2D echocardiography",
+      "class": "Investigation",
+      "match": "echocardiograph"
+    },
+    {
+      "id": "histopathology",
+      "name": "Histopathology",
+      "class": "Investigation",
+      "match": "histopatholog"
+    }
+  ]
+}

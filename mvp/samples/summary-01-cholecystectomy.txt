@@ -1,0 +1,22 @@
+DISCHARGE SUMMARY (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Claim No: DA-2026-004417
+Patient Ref: P-1042
+Age: 46
+Sex: Female
+Admission type: Planned
+Primary diagnosis: Symptomatic cholelithiasis
+Comorbidities: Hypothyroidism
+Pre-existing conditions: None recorded
+Procedure performed: Laparoscopic cholecystectomy
+Anaesthesia: General
+Length of stay days: 4
+ICU days: 0
+Room category: Twin sharing
+Complications: None
+Condition at discharge: Stable, tolerating oral diet
+Treating specialty: General surgery
+Surgical approach: Laparoscopic
+Conversion to open: No
+Intraoperative findings: Distended gall bladder with multiple calculi
+Drain placed: No
+Histopathology sent: Yes, gall bladder specimen

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ClaimSetu | Claims desk audit</title>
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<div class="shell">
+  <aside class="side">
+    <div class="brand"><div class="logo" aria-hidden="true">CS</div><div><b>ClaimSetu</b><span>Claims desk audit</span></div></div>
+    <nav id="nav" aria-label="Main">
+      <a href="#overview"><i>◧</i>Overview</a>
+      <a href="#prefiling"><i>⛨</i>Pre-filing check<em id="navPre"></em></a>
+      <a href="#queue"><i>☑</i>Review queue<em id="navQueue"></em></a>
+      <a href="#claims"><i>▤</i>Claims</a>
+      <a href="#rules"><i>§</i>Payer rules</a>
+      <a href="#prices"><i>₹</i>Price analytics</a>
+      <a href="#knowledge"><i>◈</i>Denial knowledge</a>
+      <a href="#report"><i>▣</i>Audit report</a>
+      <div class="navsep"></div>
+      <a href="#schemas"><i>⌗</i>Schemas</a>
+      <a href="#log"><i>≡</i>Activity log</a>
+      <a href="#settings"><i>⚙</i>Settings</a>
+    </nav>
+    <div id="mode" class="mode"></div>
+  </aside>
+  <main id="view" tabindex="-1"></main>
+</div>
+<div id="tip" class="tip" role="tooltip"></div>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<script src="/app.js"></script>
+</body>
+</html>

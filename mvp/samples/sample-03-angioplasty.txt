@@ -1,0 +1,17 @@
+SETTLEMENT ADVICE (SYNTHETIC SAMPLE - NOT A REAL DOCUMENT)
+Payer: Demo Insurer A
+TPA: Demo TPA One
+Claim No: DA-2026-005190
+Patient Ref: P-3308
+Admission: 2026-09-21
+Discharge: 2026-09-24
+Settlement Date: 2026-10-20
+Procedure: Coronary angioplasty with single stent
+Claimed Amount: 265000
+Approved Amount: 224100
+Paid Amount: 224100
+Deductions:
+- Cath lab charges | 18000 | Charges exceed reasonable and customary rates
+- ICU stay, 1 day | 12000 | ICU stay of 1 day not medically necessary
+- 2D echocardiography | 3500 | Investigation report not provided
+- Consumables | 7400 | Non-payable items as per policy terms
