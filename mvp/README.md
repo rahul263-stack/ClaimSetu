@@ -14,7 +14,7 @@ npm install
 npm start
 ```
 
-Open http://localhost:4173 and click **Load sample letters** on the Claims page.
+Open http://localhost:4173 and click **Load sample documents** on the Claims page.
 
 ## Two reading modes
 
@@ -113,7 +113,7 @@ A CSV of every deduction is available from the Overview screen.
 - **No login.** The server listens on localhost only and has no user accounts or access control.
 - **Patient data leaves the machine in Claude mode.** Letters are sent to the Claude API. Get the hospital's written authorisation and confirm the consent basis before uploading real letters.
 - **Data is stored unencrypted** in `data/claims.db`.
-- **The sample letters are invented.** Payer names, claim numbers and amounts are synthetic.
+- **The sample documents are invented.** Payer names, claim numbers and amounts are synthetic.
 
 ## Not built yet
 

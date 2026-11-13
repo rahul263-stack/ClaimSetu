@@ -162,7 +162,7 @@ async function claims() {
   const demo = s.mode === 'demo';
   view.innerHTML = `
     <div class="head"><div><h1>Claims</h1><p>Upload settlement letters, itemised bills and discharge summaries. Documents with the same claim number are linked automatically.</p></div>
-      <button id="samples">Load sample letters</button></div>
+      <button id="samples">Load sample documents</button></div>
     ${demo ? `<div class="banner"><div><b>Demo mode.</b> No Claude credentials are configured, so only text files in the sample layout can be read, using fixed rules. Set <code>ANTHROPIC_API_KEY</code> and restart to read real letters, PDFs and scans.</div></div>` : ''}
     <div id="drop" class="drop" style="margin-bottom:16px"><b>Drop settlement letters, bills and discharge summaries here</b> or <a href="#" id="pick">choose files</a>
       <div class="small faint" style="margin-top:4px">${demo ? 'Text files (.txt) in demo mode' : 'PDF, image or text'} · several at once is fine</div>
