@@ -44,7 +44,7 @@ npm install
 npm start
 ```
 
-Open [http://localhost:4173](http://localhost:4173), go to **Claims**, and choose **Load sample letters**. The local demo uses fixed keyword rules and does not need an API key.
+Open [http://localhost:4173](http://localhost:4173), go to **Claims**, and choose **Load sample documents**. The local demo uses fixed keyword rules and does not need an API key.
 
 ### Optional document extraction
 
@@ -69,5 +69,6 @@ Documents uploaded in this mode are sent to the Anthropic API. The live API path
 - [`architecture/`](architecture/) — platform and workflow diagram
 - [`reports/`](reports/) — product thesis and operating model
 - [`research_notes/`](research_notes/) — supporting market and regulatory research
+- [`tools/`](tools/) — scripts that rebuild the architecture diagram (`node tools/build-architecture.js`) and the report PDF (`node tools/build-report-pdf.js`, needs Chrome or Edge)
 
 The sample claims, patient references, payer names, and payer rules are synthetic. Findings from the demo illustrate the workflow only; they are not evidence that a deduction is recoverable.
